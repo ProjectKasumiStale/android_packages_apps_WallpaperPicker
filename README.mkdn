@@ -1,0 +1,21 @@
+# Wallpapers in Project Kasumi
+
+## BanG Dream
+
+* Toyama Kasumi (kasumitoyama.jpg)
+* Maruyama Aya (ayamaruyama.jpg)
+* Minato Yukina (yukinaminato.jpg)
+* Mitake Ran (ranmitake.jpg)
+* Tsurumaki Kokoro (kokorotsurumaki.jpg)
+* Kurata Mashiro (mashirokurata.jpg)
+* Hiromachi Nanami (nanamihiromachi.jpg)
+* LAYER (Wakana Rei) (reiwakana.jpg)
+* CHU² (Tamade Chiyu) (chiyutamade.jpg)
+
+## OOC (Out Of Context)
+
+* Shinomiya Kaguya // Kaguya-sama wa Kokurasetai (ooc_kaguyashinomiya.jpg)
+
+-----
+
+All wallpapers mentioned here are under res/drawable-nodpi.
