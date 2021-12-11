@@ -17,15 +17,9 @@
 
 <resources>
     <string-array name="wallpapers" translatable="false">
-        <item>ayamaruyama</item>
-        <item>chiyutamade</item>
-        <item>kasumitoyama</item>
-        <item>kokorotsurumaki</item>
-        <item>mashirokurata</item>
-        <item>nanamihiromachi</item>
-        <item>ooc_kaguyashinomiya</item>
-        <item>ranmitake</item>
-        <item>reiwakana</item>
-        <item>yukinaminato</item>
+        <item>Backstage1</item>
+        <item>Backstage2</item>
+        <item>Backstage3</item>
+        <item>Backstage4</item>
     </string-array>
 </resources>

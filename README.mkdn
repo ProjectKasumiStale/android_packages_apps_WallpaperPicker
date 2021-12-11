@@ -1,20 +1,13 @@
-# Wallpapers in Project Kasumi
+# Wallpapers in Project Kasumi Backstage
 
-## BanG Dream
+## Where did the original ones go? Will you replace them on 1.x too?
 
-* Toyama Kasumi (kasumitoyama.jpg)
-* Maruyama Aya (ayamaruyama.jpg)
-* Minato Yukina (yukinaminato.jpg)
-* Mitake Ran (ranmitake.jpg)
-* Tsurumaki Kokoro (kokorotsurumaki.jpg)
-* Kurata Mashiro (mashirokurata.jpg)
-* Hiromachi Nanami (nanamihiromachi.jpg)
-* LAYER (Wakana Rei) (reiwakana.jpg)
-* CHU² (Tamade Chiyu) (chiyutamade.jpg)
-
-## OOC (Out Of Context)
-
-* Shinomiya Kaguya // Kaguya-sama wa Kokurasetai (ooc_kaguyashinomiya.jpg)
+They're still somewhere in old commits. I had to remove them from
+Backstage due to some problems with Android Nougat's wallpaper
+aspect ratio enforcement for default wallpapers and its breakage
+towards original Project Kasumi wallpapers, which don't go well
+with that aspect ratio. All wallpapers placed here are the
+scenes called *Backstage" from BanG Dream! Girls Band Party! game.
 
 -----
 
